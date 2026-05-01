@@ -1,0 +1,25 @@
+id_cliente,nombre,correo,telefono
+1,JUAN PEREZ,juan@email.com,3001234567.0
+2,MARIA GOMEZ,maria@email.com,0000000
+3,CARLOS LOPEZ,carlos@email.com,3109876543.0
+4,ANA RUIZ,sin_correo@autofuturo.com,3205554433.0
+5,LUIS DIAZ,luis@email.com,0000000
+6,SOFIA RAMIREZ,sofia@email.com,3112223344.0
+7,PEDRO MARTINEZ,pedro@email.com,3158889900.0
+8,LUCIA FERNANDEZ,sin_correo@autofuturo.com,3187776655.0
+9,JORGE NITALES,jorge@email.com,0000000
+10,CAMILA OSORIO,camila@email.com,3009998877.0
+11,ANDRES VARGAS,andres@email.com,3201112233.0
+12,VALERIA CASTRO,sin_correo@autofuturo.com,0000000
+13,MATEO RIOS,mateo@email.com,3194445566.0
+14,DANIELA SILVA,daniela@email.com,3012223344.0
+15,ESTEBAN ARCE,sin_correo@autofuturo.com,3105558899.0
+16,CAROLINA MORA,caro@email.com,0000000
+17,JULIAN ORTIZ,julian@email.com,3123456789.0
+18,SARA PINTO,sara@email.com,3145678901.0
+19,DIEGO FRANCO,sin_correo@autofuturo.com,3167890123.0
+20,PAULA VEGA,paula@email.com,0000000
+21,TOMAS PARDO,tomas@email.com,3178901234.0
+22,LAURA QUINTERO,laura@email.com,3189012345.0
+23,ROBERTO GOMEZ,roberto@email.com,3001110000.0
+0,CLIENTE NO IDENTIFICADO,desconocido@autofuturo.com,0000000

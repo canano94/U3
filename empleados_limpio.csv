@@ -1,0 +1,7 @@
+id_empleado,nombre,cargo,id_sede
+10,CARLOS RUIZ,Vendedor,1
+11,LAURA BELTRAN,Vendedor,2
+12,ANDRES PEREZ,Tecnico,3
+13,MARTA SANCHEZ,Vendedor,1
+14,FELIPE CASTRO,Tecnico,2
+0,EMPLEADO GENERICO,N/A,0

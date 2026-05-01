@@ -1,0 +1,27 @@
+id_vehiculo,marca,modelo,ano,precio,estado,id_proveedor,placa
+101,Toyota,Corolla,2023,85000000,Nuevo,1,XYZ-101
+102,Ford,Fiesta,2018,45000000,Usado,2,DEF-102
+103,Chevrolet,Tracker,,65000000,Usado,1,GHI-103
+101,Toyota,Corolla,2023,85000000,Nuevo,1,XYZ-101
+104,Mazda,CX-5,2024,120000000,Nuevo,,JKL-104
+105,Renault,Logan,2015,25000000,Usado,3,MNO-105
+106,Kia,Picanto,2021,,Usado,2,PQR-106
+107,Nissan,March,2019,35000000,Usado,1,STU-107
+108,Volkswagen,Jetta,2022,75000000,Nuevo,3,VWX-108
+109,Hyundai,Tucson,,95000000,Nuevo,2,YZA-109
+110,Suzuki,Swift,2020,40000000,Usado,,BCD-110
+105,Renault,Logan,2015,25000000,Usado,3,MNO-105
+111,Honda,Civic,2023,110000000,Nuevo,1,EFG-111
+112,Peugeot,208,2022,68000000,Nuevo,2,HIJ-112
+113,Fiat,Mobi,2017,,Usado,3,KLM-113
+114,Jeep,Renegade,2021,80000000,Usado,1,NOP-114
+115,Subaru,XV,2024,130000000,Nuevo,,QRS-115
+116,BMW,Serie 3,2019,140000000,Usado,2,TUV-116
+108,Volkswagen,Jetta,2022,75000000,Nuevo,3,VWX-108
+117,Mercedes,Clase A,,160000000,Nuevo,1,WXY-117
+118,Audi,A3,2020,115000000,Usado,3,ZAB-118
+119,Volvo,XC40,2023,180000000,Nuevo,2,CDE-119
+120,Mini,Cooper,2018,85000000,Usado,1,FGH-120
+116,BMW,Serie 3,2019,140000000,Usado,2,TUV-116
+121,Lexus,NX,2024,200000000,Nuevo,3,IJK-121
+122,Chery,Tiggo,2022,55000000,Usado,1,LMN-122

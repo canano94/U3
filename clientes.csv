@@ -1,0 +1,27 @@
+id_cliente,nombre,correo,telefono
+1,Juan Perez,juan@email.com,3001234567
+2,Maria Gomez,maria@email.com,
+3,carlos lopez,carlos@email.com,3109876543
+1,Juan Perez,juan@email.com,3001234567
+4,Ana Ruiz,,3205554433
+5,Luis Diaz,luis@email.com,
+6,sofia ramirez,sofia@email.com,3112223344
+7,Pedro Martinez,pedro@email.com,3158889900
+8,lucia fernandez,,3187776655
+9,Jorge Nitales,jorge@email.com,
+10,Camila Osorio,camila@email.com,3009998877
+11,Andres Vargas,andres@email.com,3201112233
+12,valeria castro,,
+13,Mateo Rios,mateo@email.com,3194445566
+14,Daniela Silva,daniela@email.com,3012223344
+7,Pedro Martinez,pedro@email.com,3158889900
+15,Esteban Arce,,3105558899
+16,Carolina Mora,caro@email.com,
+17,julian ortiz,julian@email.com,3123456789
+18,Sara pinto,sara@email.com,3145678901
+19,Diego Franco,,3167890123
+20,Paula Vega,paula@email.com,
+21,Tomas Pardo,tomas@email.com,3178901234
+6,sofia ramirez,sofia@email.com,3112223344
+22,Laura Quintero,laura@email.com,3189012345
+23,Roberto Gomez,roberto@email.com,3001110000
